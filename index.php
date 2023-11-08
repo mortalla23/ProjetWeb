@@ -66,7 +66,10 @@
                       <div class="col-md-6">
                         <div class="card-body">
                           <h5 class="card-title">Monopoly</h5>
-                          <p class="card-text">Le Monopoly est apprécié pour son mélange de stratégie, de chance et de négociation, ce qui en fait un jeu social et divertissant pour les amis et la famille. Il existe de nombreuses éditions spéciales et variantes du Monopoly, chacune avec ses propres thèmes et règles spécifiques.</p>
+                          <p class="card-text">Le Monopoly est apprécié pour son mélange de stratégie, 
+                            de chance et de négociation, ce qui en fait un jeu social et divertissant pour 
+                            les amis et la famille. Il existe de nombreuses éditions spéciales et variantes 
+                            du Monopoly, chacune avec ses propres thèmes et règles spécifiques.</p>
                           <p class="card-text"><a href="#" class="text-muted btn">Last updated 3 mins ago</a></p>
                         </div>
                       </div>
