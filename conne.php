@@ -30,9 +30,7 @@
               <li class="nav-item pe-2">
                 <a class="nav-link" href ="inscrip.php">Devenir membre</a>
               </li>
-              <li class="nav-item pe-2">
-                <a class="btn btn-order rounded-0" href ="conne.php">Connection</a>
-              </li>
+              
             </ul>
           </div>
         </div>
