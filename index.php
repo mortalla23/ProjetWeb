@@ -24,7 +24,7 @@
               </li>
               
               <li class="nav-item pe-2">
-                <a class="nav-link active" href ="presen.php">Presentation</a>
+                <a class="nav-link active" href ="presen.php">A propos</a>
               </li>
               <li class="nav-item pe-2">
                 <a class="nav-link active" href ="inscrip.php">Devenir membre</a>
@@ -47,7 +47,7 @@
                              Entrez dans l'Univers des jeux de plateaux
                         </h1>    
                         <p>
-                            <button class="btn btn-order rounded-0 merriweather">Règles de jeu</button>
+                            <button href="presen.php" class="btn btn-order rounded-0 merriweather">Connectez-vous pour voir tous nos jeux </button>
                            
                         </p>
                     </div>
