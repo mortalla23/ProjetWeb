@@ -20,17 +20,17 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
               <li class="nav-item pe-2">
-                <a class="nav-link active" aria-current="page" href="index.html">Accueil</a>
+                <a class="nav-link active" aria-current="page" href="index.php">Accueil</a>
               </li>
               
               <li class="nav-item pe-2">
-                <a class="nav-link active" href ="presen.html">Presentation</a>
+                <a class="nav-link active" href ="presen.php">Presentation</a>
               </li>
               <li class="nav-item pe-2">
-                <a class="nav-link active" href ="inscrip.html">Devenir membre</a>
+                <a class="nav-link active" href ="inscrip.php">Devenir membre</a>
               </li>
               <li class="nav-item pe-2">
-                <a class="btn btn-order rounded-0" href ="conne.html">Connection</a>
+                <a class="btn btn-order rounded-0" href ="conne.php">Connection</a>
               </li>
             </ul>
           </div>
