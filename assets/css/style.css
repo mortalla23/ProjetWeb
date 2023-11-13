@@ -42,6 +42,7 @@
     transition: 0.5s;
 
 }
+
 .btn-order:hover,
 .btn-order:active {
     color: #fff;
@@ -63,5 +64,5 @@
     height: 1100px;
 }   
 
-
+ 
     
