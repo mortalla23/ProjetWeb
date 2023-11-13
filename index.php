@@ -61,7 +61,14 @@
                 <div class="card mb-3" border-0 rounded-0">
                     <div class="row g-0">
                       <div class="col-md-6">
+
+                      <div class="dropdown">
+                      <button class="titre">LE JEU </button>
+                      <div class="dropdown-child">
                         <img src="assets/img/monopoly.png"  class="img-fluid " alt="...">
+                        </div>
+                    </div>
+                    
                       </div>
                       <div class="col-md-6">
                         <div class="card-body">
@@ -79,7 +86,7 @@
                               
                             </div>
                           </div>
-                          
+
                            
                         </div>
                       </div>
