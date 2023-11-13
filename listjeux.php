@@ -44,10 +44,7 @@
                     <h1 class="texte-capitalize py-3 redressed banner-desc">
                          La liste des jeux sur GameSphère
                     </h1>    
-                    <p>
-                        <button class="btn btn-order rounded-0 merriweather">Règles de jeu</button>
-                       
-                    </p>
+                   
                 </div>
             </div>
         </div>
@@ -64,7 +61,10 @@
                         <div class="card-body">
                           <h5 class="card-title">Monopoly</h5>
                           <p class="card-text">Le Monopoly est apprécié pour son mélange de stratégie, de chance et de négociation, ce qui en fait un jeu social et divertissant pour les amis et la famille. Il existe de nombreuses éditions spéciales et variantes du Monopoly, chacune avec ses propres thèmes et règles spécifiques.</p>
-                          <p class="card-text"><a href="#" class="text-muted btn">Last updated 3 mins ago</a></p>
+                          <p class="card-text">
+                            <button href="assets/img/bd.pdf" class="btn btn-order rounded-0 merriweather">Règles du monopoly</button>
+                          </p>
+                          
                         </div>
                       </div>
                     </div>
