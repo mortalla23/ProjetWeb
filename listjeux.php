@@ -65,7 +65,7 @@
                             et divertissant pour les amis et la famille. Il existe de nombreuses éditions s
                             péciales et variantes du Monopoly, chacune avec ses propres thèmes et règles spécifiques.</p>
                           <p class="card-text">
-                            <a href="assets/img/bd.pdf" class="btn btn-order rounded-0 merriweather">Règles du monopoly</a>
+                            <a href="assets/img/monopolyregle.pdf" class="btn btn-order rounded-0 merriweather">Règles du monopoly</a>
                           </p>
                           
                         </div>
@@ -79,13 +79,12 @@
                       <div class="col-md-6">
                         <div class="card-body">
                           <h5 class="card-title">Jeu d'échecs</h5>
-                          <p class="card-text">Les jeux de société sont
-                             un excellent moyen de passer du temps de qualité en famille ou entre amis, encourageant la
-                              communication, la collaboration et la compétition amicale. Ils peuvent être appréciés par 
-                              les personnes de tous âges et offrent une opportunité de créer des souvenirs tout en développant
-                               des compétences telles que la pensée critique, la résolution de problèmes et la planification stratégique.</p>
+                          <p class="card-text">
+                              Jeu composé d'un plateau de 64 cases et de 32 pièces (16 pour chacun des deux joueurs).
+                              Le jeu consiste à mettre l'autre joueur échec et mat, 
+                              c'est-à-dire que son roi est en prise et qu'il n'y a aucun coup possible pour l'en sortir.</p>
                                <p class="card-text">
-                            <a href="assets/img/bd.pdf" class="btn btn-order rounded-0 merriweather">Règles des échecs</a>
+                            <a href="assets/img/regleEchec.pdf" class="btn btn-order rounded-0 merriweather">Règles des échecs</a>
                           </p>
                         </div>
                       </div>
@@ -103,8 +102,10 @@
                       <div class="col-md-6">
                         <div class="card-body">
                           <h5 class="card-title">Jeu de Carte</h5>
-                          <p class="card-text">Les jeux de cartes offrent une grande flexibilité et diversité, ce qui les rend accessibles à un large public. Ils encouragent également le développement de compétences mentales telles que la concentration, la mémoire, la planification stratégique et la prise de décision rapide.</p>
-                          <p class="card-text"><a href="#" class="text-muted btn">Last updated 3 mins ago</a></p>
+                          <p class="card-text">Les jeux de cartes offrent une grande flexibilité et diversité, 
+                            ce qui les rend accessibles à un large public. Ils encouragent également le développement de compétences 
+                            mentales telles que la concentration, la mémoire, la planification stratégique et la prise de décision rapide.</p>
+                            <a href="assets/img/.pdf" class="btn btn-order rounded-0 merriweather">Règles du jeu de carte </a>
                         </div>
                       </div>
                     </div>
@@ -116,8 +117,12 @@
                       <div class="col-md-6">
                         <div class="card-body">
                           <h5 class="card-title">Scrable</h5>
-                          <p class="card-text">Le Scrabble, jeu de société emblématique, est une aventure intellectuelle où les mots sont vos meilleures armes. Plongez dans ce jeu passionnant où la créativité et la stratégie se rencontrent. Le Scrabble vous met au défi de créer des mots ingénieux et de placer vos lettres judicieusement sur le plateau pour marquer des points et battre vos adversaires.</p>
-                          <p class="card-text"><a href="#" class="text-muted btn">Last updated 3 mins ago</a></p>
+                          <p class="card-text">Le Scrabble, jeu de société emblématique,
+                             est une aventure intellectuelle où les mots sont vos meilleures armes. 
+                             Plongez dans ce jeu passionnant où la créativité et la stratégie se rencontrent. 
+                             Le Scrabble vous met au défi de créer des mots ingénieux et de placer vos lettres judicieusement sur le plateau
+                             pour marquer des points et battre vos adversaires.</p>
+                             <a href="assets/img/Scrabbleregle.pdf" class="btn btn-order rounded-0 merriweather">Règles du scrable</a>
                         </div>
                       </div>
                       <div class="col-md-6">
