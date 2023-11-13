@@ -12,7 +12,7 @@
 <body>
     <nav class="cc-navbar navbar navbar-expand-lg position-fixed navbar-dark w-100">
         <div class="container">
-          <a class="navbar-brand test-uppercase fw-bolder mx-4 py-3" href="#">GameSphère</a>
+          <button class="navbar-brand test-uppercase fw-bolder mx-4 py-3" href="presen.php">GameSphère</button>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -29,7 +29,7 @@
             </ul>
             <ul class="navbar-nav mb-lg-0">
                 <li class="nav-item">
-                  <a class="nav-link" href="logout.php">Déconnexion</a>
+                  <a class="nav-link" href="index.php">Déconnexion</a>
                 </li>
         
               </ul>
