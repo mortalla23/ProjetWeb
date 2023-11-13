@@ -58,38 +58,30 @@
       <section class="suite py-5" >
         <div class="container">
             <div class="row">
-              <div class="dropdown">
-                <button class="titre">Jeu 1</button>
-                <div class="dropdown-child">
-                    <div class="card mb-3" border-0 rounded-0">
-                        <div class="row g-0">
-                          <div class="col-md-6">
-                            <img src="assets/img/monopoly.png"  class="img-fluid " alt="...">
+                <div class="card mb-3" border-0 rounded-0">
+                    <div class="row g-0">
+                      <div class="col-md-6">
+                        <img src="assets/img/monopoly.png"  class="img-fluid " alt="...">
+                      </div>
+                      <div class="col-md-6">
+                        <div class="card-body">
+
+                        
+                          <h5 class="card-title">Monopoly</h5>
+
+                          <div class="dropdown">
+                            <button class="titre">DESCRITION</button>
+                            <div class="dropdown-child">
+                              <p>Le Monopoly est apprécié pour son mélange de stratégie, 
+                                de chance et de négociation, ce qui en fait un jeu social et divertissant pour 
+                                les amis et la famille. </p> <p> Il existe de nombreuses éditions spéciales et variantes 
+                                du Monopoly, chacune avec ses propres thèmes et règles spécifiques.</p>
+                              
+                            </div>
                           </div>
-                          <div class="col-md-6">
-                            <div class="card-body">
-
-                            
-                              <h5 class="card-title">Monopoly</h5>
-
-                              <div class="dropdown">
-                                <button class="titre">descrition</button>
-                                <div class="dropdown-child">
-                                  <p>Le Monopoly est apprécié pour son mélange de stratégie, 
-                                    de chance et de négociation, ce qui en fait un jeu social et divertissant pour 
-                                    les amis et la famille. </p> <p> Il existe de nombreuses éditions spéciales et variantes 
-                                    du Monopoly, chacune avec ses propres thèmes et règles spécifiques.</p>
-                                  
-                                </div>
-                              </div>
-                      
                            
                         </div>
                       </div>
-
-                      </div>
-                       </div>
-                       
                     </div>
                   </div>
                   <div class="card my-5" border-0 rounded-0">
