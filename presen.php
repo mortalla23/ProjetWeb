@@ -42,27 +42,37 @@
             <div class ="row ">
                     <h1 class="text-center redressed">Bienvenue</h1>
                      <h2 class="text-center redressed " >
-                        GameSphère est votre portail en ligne dédié aux amateurs de jeux de plateau, offrant une expérience de jeu immersive et divertissante. Plongez dans l'univers des jeux de plateau classiques tels que Monopoly, jeu de carte, ludo, tous réunis sur une plateforme conviviale.</br><u>Présentation</u>
+                        GameSphère est votre portail en ligne dédié aux amateurs de jeux de plateau, offrant une expérience de jeu immersive et divertissante. 
+                        Plongez dans l'univers des jeux de plateau classiques tels que Monopoly, jeu de carte, ludo, tous réunis sur une plateforme conviviale.</br>
+                        <u>Présentation</u>
                      </h2>  
-                     
-                        <h4 class="text-center redressed">1.<u>Une Collection Étendue de Jeux de Plateau </u>  :</h4>
-                        <p class="text-center"> Que vous soyez un vétéran des jeux de société ou un débutant enthousiaste, notre collection diversifiée comprend une gamme de jeux de plateau populaires. Choisissez parmi les classiques intemporels, les derniers jeux tendance et les perles méconnues.</p>
-                        
-                        <h5 class="text-center redressed">2. <u>Parties en Ligne et Multijoueurs</u></h5>
-                        <p class="text-center">Jouez avec vos amis, votre famille ou des joueurs du monde entier grâce à nos fonctionnalités multijoueurs. Rejoignez des tournois passionnants pour montrer vos compétences.</p>
-                    
-                        <h8 class="text-center redressed">3. <u>Communauté Engagée</u> </h8>
-                        <p class="text-center ">Rejoignez notre communauté passionnée de joueurs de plateau. Participez à des discussions, partagez des stratégies et organisez des tournois. Faites de nouveaux amis tout en partageant votre amour des jeux de société.</p>
-                        
-                        <h9 class="text-center redressed">5.<u>Jeux sur Tous les Appareils</u>  </h9>
-                        <p class="text-center">Profitez de l'excitation des jeux de plateau sur n'importe quel appareil - que ce soit sur votre ordinateur, votre tablette ou votre smartphone. Jouez à tout moment, n'importe où.</p>
-                        
-                        <h10 class="text-center redressed">6.<u>Pourquoi Choisir GameSphère?</u> </h10>
-                        <p class="text-center"> GameSphère se distingue largement des autres. Nous mettons l'accent sur l'expérience utilisateur, offrant un site sécurisé, convivial et accessible à tous les âges et niveaux de compétence. Notre équipe passionnée travaille constamment pour élargir notre collection de jeux, garantissant ainsi que chaque visite sur GameSphère soit une aventure ludique inoubliable.</p>
-                    
-                        <p class="text-center">Préparez-vous à plonger dans un monde de compétition amicale, d'intrigues stratégiques et d'innombrables heures de divertissement. Rejoignez-nous dès aujourd'hui sur GameSphère et préparez-vous à jouer, à rire et à gagner!
-                        </p>
+
+                     <div class="dropdown">
+                      <button class="titre">DESCRITION</button>
+                      <div class="dropdown-child">
                       
+                          <h4 class="text-center redressed">1.<u>Une Collection Étendue de Jeux de Plateau </u>  :</h4>
+                          <p class="text-center"> Que vous soyez un vétéran des jeux de société ou un débutant enthousiaste, notre collection diversifiée comprend une gamme de jeux de plateau populaires. Choisissez parmi les classiques intemporels, les derniers jeux tendance et les perles méconnues.</p>
+                          
+                          <h5 class="text-center redressed">2. <u>Parties en Ligne et Multijoueurs</u></h5>
+                          <p class="text-center">Jouez avec vos amis, votre famille ou des joueurs du monde entier grâce à nos fonctionnalités multijoueurs. Rejoignez des tournois passionnants pour montrer vos compétences.</p>
+                      
+                          <h8 class="text-center redressed">3. <u>Communauté Engagée</u> </h8>
+                          <p class="text-center ">Rejoignez notre communauté passionnée de joueurs de plateau. Participez à des discussions, partagez des stratégies et organisez des tournois. Faites de nouveaux amis tout en partageant votre amour des jeux de société.</p>
+                          
+                          <h9 class="text-center redressed">5.<u>Jeux sur Tous les Appareils</u>  </h9>
+                          <p class="text-center">Profitez de l'excitation des jeux de plateau sur n'importe quel appareil - que ce soit sur votre ordinateur, votre tablette ou votre smartphone. Jouez à tout moment, n'importe où.</p>
+                          
+                          <h10 class="text-center redressed">6.<u>Pourquoi Choisir GameSphère?</u> </h10>
+                          <p class="text-center"> GameSphère se distingue largement des autres. Nous mettons l'accent sur l'expérience utilisateur, offrant un site sécurisé, convivial et accessible à tous les âges et niveaux de compétence. Notre équipe passionnée travaille constamment pour élargir notre collection de jeux, garantissant ainsi que chaque visite sur GameSphère soit une aventure ludique inoubliable.</p>
+                      
+                          <p class="text-center">Préparez-vous à plonger dans un monde de compétition amicale, d'intrigues stratégiques et d'innombrables heures de divertissement. Rejoignez-nous dès aujourd'hui sur GameSphère et préparez-vous à jouer, à rire et à gagner!
+                          </p>
+                    </div>
+                      </div>
+            
+        
+        
                     
                 
             </div>
