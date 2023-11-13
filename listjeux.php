@@ -55,14 +55,17 @@
                 <div class="card mb-3" border-0 rounded-0">
                     <div class="row g-0">
                       <div class="col-md-6">
-                        <img src="assets/img/monopoly.png"  class="img-fluid " alt="...">
+                        <img src="assets/img/monopoly.png"  class="img-fluid " >
                       </div>
                       <div class="col-md-6">
                         <div class="card-body">
                           <h5 class="card-title">Monopoly</h5>
-                          <p class="card-text">Le Monopoly est apprécié pour son mélange de stratégie, de chance et de négociation, ce qui en fait un jeu social et divertissant pour les amis et la famille. Il existe de nombreuses éditions spéciales et variantes du Monopoly, chacune avec ses propres thèmes et règles spécifiques.</p>
+                          <p class="card-text">Le Monopoly est apprécié pour son mélange de 
+                            stratégie, de chance et de négociation, ce qui en fait un jeu social 
+                            et divertissant pour les amis et la famille. Il existe de nombreuses éditions s
+                            péciales et variantes du Monopoly, chacune avec ses propres thèmes et règles spécifiques.</p>
                           <p class="card-text">
-                            <button href="assets/img/bd.pdf" class="btn btn-order rounded-0 merriweather">Règles du monopoly</button>
+                            <a href="assets/img/bd.pdf" class="btn btn-order rounded-0 merriweather">Règles du monopoly</a>
                           </p>
                           
                         </div>
@@ -75,9 +78,15 @@
                       
                       <div class="col-md-6">
                         <div class="card-body">
-                          <h5 class="card-title">Jeu de Société</h5>
-                          <p class="card-text">Les jeux de société sont un excellent moyen de passer du temps de qualité en famille ou entre amis, encourageant la communication, la collaboration et la compétition amicale. Ils peuvent être appréciés par les personnes de tous âges et offrent une opportunité de créer des souvenirs tout en développant des compétences telles que la pensée critique, la résolution de problèmes et la planification stratégique.</p>
-                          <p class="card-text"><a href="#" class="text-muted btn">Last updated 3 mins ago</a></p>
+                          <h5 class="card-title">Jeu d'échecs</h5>
+                          <p class="card-text">Les jeux de société sont
+                             un excellent moyen de passer du temps de qualité en famille ou entre amis, encourageant la
+                              communication, la collaboration et la compétition amicale. Ils peuvent être appréciés par 
+                              les personnes de tous âges et offrent une opportunité de créer des souvenirs tout en développant
+                               des compétences telles que la pensée critique, la résolution de problèmes et la planification stratégique.</p>
+                               <p class="card-text">
+                            <a href="assets/img/bd.pdf" class="btn btn-order rounded-0 merriweather">Règles des échecs</a>
+                          </p>
                         </div>
                       </div>
                       <div class="col-md-6">
