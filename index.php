@@ -47,7 +47,7 @@
                              Entrez dans l'Univers des jeux de plateaux
                         </h1>    
                         <p>
-                            <button href="conne.php" class="btn btn-order rounded-0 merriweather">Connectez-vous pour voir tous nos jeux </button>
+                            <button class="btn btn-order rounded-0 merriweather" href="conne.php" >Connectez-vous pour voir tous nos jeux </button>
                            
                         </p>
                     </div>
@@ -73,7 +73,7 @@
                             de chance et de négociation, ce qui en fait un jeu social et divertissant pour 
                             les amis et la famille. Il existe de nombreuses éditions spéciales et variantes 
                             du Monopoly, chacune avec ses propres thèmes et règles spécifiques.</p>
-                          <p class="card-text"><a href="#" class="text-muted btn">Last updated 3 mins ago</a></p>
+                           
                         </div>
                       </div>
                     </div>
@@ -85,7 +85,7 @@
                         <div class="card-body">
                           <h5 class="card-title">Jeu de Société</h5>
                           <p class="card-text">Les jeux de société sont un excellent moyen de passer du temps de qualité en famille ou entre amis, encourageant la communication, la collaboration et la compétition amicale. Ils peuvent être appréciés par les personnes de tous âges et offrent une opportunité de créer des souvenirs tout en développant des compétences telles que la pensée critique, la résolution de problèmes et la planification stratégique.</p>
-                          <p class="card-text"><a href="#" class="text-muted btn">Last updated 3 mins ago</a></p>
+                          
                         </div>
                       </div>
                       <div class="col-md-6">
@@ -102,7 +102,7 @@
                         <div class="card-body">
                           <h5 class="card-title">Jeu de Carte</h5>
                           <p class="card-text">Les jeux de cartes offrent une grande flexibilité et diversité, ce qui les rend accessibles à un large public. Ils encouragent également le développement de compétences mentales telles que la concentration, la mémoire, la planification stratégique et la prise de décision rapide.</p>
-                          <p class="card-text"><a href="#" class="text-muted btn">Last updated 3 mins ago</a></p>
+                         
                         </div>
                       </div>
                     </div>
