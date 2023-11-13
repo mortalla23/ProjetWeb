@@ -47,7 +47,7 @@
                              Entrez dans l'Univers des jeux de plateaux
                         </h1>    
                         <p>
-                            <button class="btn btn-order rounded-0" href="conne.php" >Connectez-vous pour voir tous nos jeux </button>
+                            <button class="btn btn-order rounded-0 merriweather" href="conne.php" >Connectez-vous pour voir tous nos jeux </button>
                            
                         </p>
                     </div>
@@ -69,10 +69,17 @@
                         
                           <h5 class="card-title">Monopoly</h5>
 
-                          <p class="card-text">Le Monopoly est apprécié pour son mélange de stratégie, 
-                            de chance et de négociation, ce qui en fait un jeu social et divertissant pour 
-                            les amis et la famille. Il existe de nombreuses éditions spéciales et variantes 
-                            du Monopoly, chacune avec ses propres thèmes et règles spécifiques.</p>
+                          <div class="dropdown">
+                            <button class="titre">descrition</button>
+                            <div class="dropdown-child">
+                              <p>Le Monopoly est apprécié pour son mélange de stratégie, 
+                                de chance et de négociation, ce qui en fait un jeu social et divertissant pour 
+                                les amis et la famille. </p> <p> Il existe de nombreuses éditions spéciales et variantes 
+                                du Monopoly, chacune avec ses propres thèmes et règles spécifiques.</p>
+                              
+                            </div>
+                          </div>
+                          
                            
                         </div>
                       </div>
