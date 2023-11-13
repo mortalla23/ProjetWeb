@@ -47,7 +47,7 @@
                              Entrez dans l'Univers des jeux de plateaux
                         </h1>    
                         <p>
-                            <button class="btn btn-order rounded-0 merriweather" href="conne.php" >Connectez-vous pour voir tous nos jeux </button>
+                            <button class="btn btn-order rounded-0" href="conne.php" >Connectez-vous pour voir tous nos jeux </button>
                            
                         </p>
                     </div>
