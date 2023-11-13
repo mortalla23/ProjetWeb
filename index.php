@@ -65,12 +65,30 @@
                       </div>
                       <div class="col-md-6">
                         <div class="card-body">
+
+                        
                           <h5 class="card-title">Monopoly</h5>
-                          <p class="card-text">Le Monopoly est apprécié pour son mélange de stratégie, 
+
+                        <div class="card-title">
+                          <div class="accordion-item">
+                            <h2 class="accordion-header">
+                              <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                Monopoly 
+                              </button>
+                            </h2>
+                            <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+                              <div class="accordion-body">
+                              <p class="card-text">Le Monopoly est apprécié pour son mélange de stratégie, 
                             de chance et de négociation, ce qui en fait un jeu social et divertissant pour 
                             les amis et la famille. Il existe de nombreuses éditions spéciales et variantes 
                             du Monopoly, chacune avec ses propres thèmes et règles spécifiques.</p>
-                          <p class="card-text"><a href="#" class="text-muted btn">Last updated 3 mins ago</a></p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+
+                         
+                      
                         </div>
                       </div>
                     </div>
