@@ -101,12 +101,15 @@ $statement = $pdo->query($query);
                 <tr style="background-color: white;">
                     <th>ID </th>
                     <th>Nom du Jeu </th>
+                    <th>Photo </th>
                     <th>Action </th>
                 </tr>
                 <?php while ($row = $statement->fetch(PDO::FETCH_ASSOC)) : ?>
                     <tr>
                         <td style="background-color: white;"><?= $row['ID'] ?></td>
                         <td style="background-color: white;"><?= $row['NOMJ'] ?></td>
+                      
+                        <td><img src="assets/img/<?= $row['FILE'] ?>" width="100px" height="100px"></td>
                         <td>
                     <form method="POST" action="">
                         <input type="hidden" name="delete" value="<?= $row['ID'] ?>">

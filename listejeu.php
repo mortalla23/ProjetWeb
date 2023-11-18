@@ -53,7 +53,7 @@
   </section>
   <section class="suite py-5">
   <div class="container">
-  <h1>List des jeux</h1>
+  
 
 
 
@@ -66,29 +66,28 @@
 </tr>
     </thead>
     <tbody>
-    
     <?php
 
-  // Connexion :
-  require_once("connpdo.php");
-  $req="SELECT * FROM jeux";
-  $ps=$pdo->prepare($req);
-  $ps->execute();
+// Connexion :
+require_once("connpdo.php");
+$req = "SELECT * FROM jeux";
+$ps = $pdo->prepare($req);
+$ps->execute();
+
+// Récupérer les résultats avec PDO
+while ($row = $ps->fetch(PDO::FETCH_ASSOC)) {
+?>
+    <tr>
+        <td><?= $row['id'] ?></td>
+        <td><?= $row['NOMJ'] ?></td>
+        <td><img src="assets/img/<?= $row['FILE'] ?>" width="100px" height="100px"></td>
+    </tr>
+<?php
+}
+?>
 
 
   
- 
-  while ($row = $ps->fetch()) {    
-     
-      echo '<tr>';
-      echo '<td>' . $row['id'] . '</td>';
-      echo '<td>' . $row['NOMJ'] . '</td>';
-      echo '<td><img src="assets/img/' . $row['FILE'] . '" width="100px" height="100px"></td>';
-      echo '</tr>';
-  }
-  ?>
-  
-
 
 
 
