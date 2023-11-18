@@ -21,8 +21,8 @@ if(!empty($_GET['id'])){
         $image = $res->fetch_assoc();
         
         //Rendre l'image
-        echo '<img src="data:image/jpeg;base64,' . $image . '" alt="Image">';
-        header("Content-type: image/jpg"); 
+        
+        header("Content-type: img/png"); 
         echo $image['FILE']; 
     }else{
         echo 'Image non trouvée...';

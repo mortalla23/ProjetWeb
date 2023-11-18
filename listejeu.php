@@ -63,7 +63,7 @@
         <th scope="col">ID</th>
         <th scope="col">Nom</th>
         <th scope="col">Photo</th>
-        
+</tr>
     </thead>
     <tbody>
     
@@ -76,24 +76,24 @@
   $ps->execute();
 
 
-
-    while($row=$ps->fetch()) 
-    {     
-      echo '<tr>';     
-      echo  '<th scope="row">'.$row['id'].'</th>';
-      echo'<td>'.$row['NOMJ'].'</td>';
-      if (!file_exists('img/'.$row['FILE'])) {
-        echo 'L\'image n\'existe pas ou le chemin est incorrect.';
-    } else {
-        echo '<td><img src="img/'.$row['FILE'].'" width="100px" height="100px"></td>';
-    }
-      
+  
+ 
+  while ($row = $ps->fetch()) {     
+      echo '<tr>';
+      echo '<td>' . $row['id'] . '</td>';
+      echo '<td>' . $row['NOMJ'] . '</td>';
+      echo '<td><img src="assets/img/' . $row['FILE'] . '" width="100px" height="100px"></td>';
       echo '</tr>';
-    
   }
-
-
   ?>
+  
+
+
+
+
+
+
+
 
   </tbody>
 
