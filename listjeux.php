@@ -55,7 +55,7 @@
                 <div class="card mb-3" border-0 rounded-0">
                     <div class="row g-0">
                       <div class="col-md-6">
-                        <img src="assets/img/monopoly.png"  class="img-fluid " >
+                        <img src="assets/img/monopoly.png">
                       </div>
                       <div class="col-md-6">
                         <div class="card-body">
@@ -89,7 +89,7 @@
                         </div>
                       </div>
                       <div class="col-md-6">
-                        <img src="assets/img/dame.png"  class="img-fluid " alt="...">
+                        <img src="assets/img/dame.png">
                       </div>
                     </div>
                   </div>
@@ -97,7 +97,7 @@
                   <div class="card mb-3" border-0 rounded-0">
                     <div class="row g-0">
                       <div class="col-md-6">
-                        <img src="assets/img/Carte.png"  class="img-fluid " alt="...">
+                        <img src="assets/img/Carte.png" >
                       </div>
                       <div class="col-md-6">
                         <div class="card-body">
@@ -126,7 +126,7 @@
                         </div>
                       </div>
                       <div class="col-md-6">
-                        <img src="assets/img/scrable.png"  class="img-fluid " alt="...">
+                        <img src="assets/img/scrable.png">
                       </div>
                     </div>
                   </div>
@@ -134,7 +134,7 @@
                   <div class="card mb-3" border-0 rounded-0">
                     <div class="row g-0">
                       <div class="col-md-6">
-                        <img src="assets/img/uno.png"  class="img-fluid " alt="...">
+                        <img src="assets/img/uno.png" >
                       </div>
                       <div class="col-md-6">
                         <div class="card-body">
