@@ -23,8 +23,14 @@
               </li>
               
               <li class="nav-item pe-2">
-                <a class="nav-link" href ="AMSjeu.php">Ajout-Sup-Mod Jeu</a>
+                <a class="nav-link" href ="Ajoutjeu.php">Ajout Jeu</a>
               </li>
+              
+              <li class="nav-item pe-2">
+                <a class="nav-link" href ="suppjeu.php">Supprimer Jeu</a>
+              </li>
+              
+              
               
             </ul>
             <ul class="navbar-nav mb-lg-0">
@@ -100,15 +106,17 @@
             </div>
             <div class="col-6">
                 <ul class="nav text-center">
-                    
                     <li class="nav-item">
-                        <a href="presen.php" class="nav-link text-white">About</a>
+                        <a href="#" class="nav-link text-white">FAQ</a>
                     </li>
                     <li class="nav-item">
-                        <a href="inscrip.php" class="nav-link text-white">Jeux</a>
+                        <a href="#" class="nav-link text-white">About</a>
                     </li>
                     <li class="nav-item">
-                        <a href="presen.php" class="nav-link text-white">Contact</a>
+                        <a href="#" class="nav-link text-white">Jeux</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link text-white">Contact</a>
                     </li>
                 </ul>
             </div>

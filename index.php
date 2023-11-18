@@ -89,18 +89,8 @@
                       
                       <div class="col-md-6">
                         <div class="card-body">
-                          <h5 class="card-title">Jeu d'échecs</h5>
-                        
-                          <div class="dropdown">
-                            <button class="titre">DESCRITION</button>
-                            <div class="dropdown-child">
-
-                          <p> Jeu composé d'un plateau de 64 cases et de 32 pièces (16 pour chacun des deux joueurs).
-                              Le jeu consiste à mettre l'autre joueur échec et mat, 
-                              c'est-à-dire que son roi est en prise et qu'il n'y a aucun coup possible pour l'en sortir.</p>
-
-                          </div>
-                            </div>
+                          <h5 class="card-title">Jeu de Société</h5>
+                          <p class="card-text">Les jeux de société sont un excellent moyen de passer du temps de qualité en famille ou entre amis, encourageant la communication, la collaboration et la compétition amicale. Ils peuvent être appréciés par les personnes de tous âges et offrent une opportunité de créer des souvenirs tout en développant des compétences telles que la pensée critique, la résolution de problèmes et la planification stratégique.</p>
                           
                         </div>
                       </div>
@@ -117,18 +107,7 @@
                       <div class="col-md-6">
                         <div class="card-body">
                           <h5 class="card-title">Jeu de Carte</h5>
-
-                          <div class="dropdown">
-                            <button class="titre">DESCRITION</button>
-                            <div class="dropdown-child">
-                         
-                          <p>Les jeux de cartes offrent une grande flexibilité et diversité,
-                             ce qui les rend accessibles à un large public. 
-                             Ils encouragent également le développement de compétences mentales 
-                             telles que la concentration, la mémoire, la planification stratégique et la prise de décision rapide.</p>
-
-                             </div>
-                          </div>
+                          <p class="card-text">Les jeux de cartes offrent une grande flexibilité et diversité, ce qui les rend accessibles à un large public. Ils encouragent également le développement de compétences mentales telles que la concentration, la mémoire, la planification stratégique et la prise de décision rapide.</p>
                          
                         </div>
                       </div>
@@ -143,11 +122,9 @@
       <section class="cc-carousel merriweather bg-dark text-light text-center py-5">
         <div class="container">
             <div class="row">
-                <h1 class="text-uppercase text-center ">GameSphère</h1>
+                <h1 class="text-uppercase text-center "> Les jeux de plateau </h1>
                     <div class="col pb-4">
-                             Les jeux que notre site présente ne vous plongerons que  dans vos plus beaux 
-                             des souvenirs d'enfances mais aussi vous permettront de vous évader.Nous vous invitons à vous 
-                             inscrire ou vous connecter pour profiter de ce moment avec vous même.
+                        Les thèmes des jeux de plateau peuvent varier considérablement, allant des jeux basés sur la stratégie militaire aux jeux de construction de civilisations, en passant par les jeux de mystère et d'intrigue. Ces jeux offrent non seulement un divertissement, mais aussi des opportunités d'apprentissage, de développement de compétences sociales et de renforcement des liens familiaux ou amicaux.
                     </div>
             </div>
             <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
@@ -188,7 +165,7 @@
                         <a href="presen.php" class="nav-link text-white">About</a>
                     </li>
                     <li class="nav-item">
-                        <a href="inscrip.php" class="nav-link text-white">Jeux</a>
+                        <a href="index.php" class="nav-link text-white">Jeux</a>
                     </li>
                     <li class="nav-item">
                         <a href="presen.php" class="nav-link text-white">Contact</a>
