@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -55,7 +57,7 @@
             
             <div class ="row">
                
-                    <form  method="POST" action="tt_inscription.php">
+                    <form  method="POST" action="tt_admin.php">
                         
                         
                         <div class="container">
@@ -65,10 +67,15 @@
                                 <label for="nom" class="form-label ">Nom</label>
                                 <input type="text" class="form-control " id="nom" name="nom" placeholder="Votre nom..." required>
                             </div>
+                            
                             <div class="col-md-10">
-                                <label for="prenom" class="form-label ">Prénom</label>
-                                <input type="text" class="form-control " id="prenom" name="prenom" placeholder="Votre prénom..." required>
+                                <label for="nom" class="form-label ">Prenom</label>
+                                <input type="text" class="form-control " id="prenom" name="prenom" placeholder="Votre prenom..." required>
                             </div>
+                            <div class="col-md-9">
+                                    <label for="email" class="form-label ">Email</label>
+                                    <input type="email" class="form-control " id="email" name="email" placeholder="Votre email..." required>
+                                </div>
                         </div>
                         <div class="row">
                             

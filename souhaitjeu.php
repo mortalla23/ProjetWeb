@@ -45,7 +45,7 @@
                     <h1 class="texte-capitalize py-3 redressed banner-desc">
                         Indiquer les jeux auxquels vous souhaitez jouer
                     </h1>    
-                    <form action="traitement.php" method="post">
+                    <form action="listejeu.php" method="post">
                         <label for="jeux">Sélectionnez un jeu :</label>
                         <select name="jeux" id="jeux">
                             <option value="Jeu 1">jeu de Carte</option>
