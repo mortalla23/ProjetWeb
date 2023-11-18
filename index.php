@@ -70,12 +70,12 @@
                           <h5 class="card-title">Monopoly</h5>
 
                           <div class="dropdown">
-                            <button class="titre">DESCRITION</button>
+                            <button class="titre">DESCRITION
                             <div class="dropdown-child">
                               <p>Le Monopoly est apprécié pour son mélange de stratégie, 
                                 de chance et de négociation, ce qui en fait un jeu social et divertissant pour 
                                 les amis et la famille. </p> <p> Il existe de nombreuses éditions spéciales et variantes 
-                                du Monopoly, chacune avec ses propres thèmes et règles spécifiques.</p>
+                            </button>du Monopoly, chacune avec ses propres thèmes et règles spécifiques et j'aime Maïlys GUESDON.</p>
                               
                             </div>
                           </div>

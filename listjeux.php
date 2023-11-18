@@ -101,11 +101,11 @@
                       </div>
                       <div class="col-md-6">
                         <div class="card-body">
-                          <h5 class="card-title">Jeu de Carte</h5>
+                          <h5 class="card-title">Jeu de carte</h5>
                           <p class="card-text">Les jeux de cartes offrent une grande flexibilité et diversité, 
                             ce qui les rend accessibles à un large public. Ils encouragent également le développement de compétences 
                             mentales telles que la concentration, la mémoire, la planification stratégique et la prise de décision rapide.</p>
-                            <a href="assets/img/.pdf" class="btn btn-order rounded-0 merriweather">Règles du jeu de carte </a>
+                            <a href="assets/img/DamedePique.pdf" class="btn btn-order rounded-0 merriweather">Règles du jeu de carte (dame de pique) </a>
                         </div>
                       </div>
                     </div>
@@ -139,8 +139,14 @@
                       <div class="col-md-6">
                         <div class="card-body">
                           <h5 class="card-title">Jeu de Uno</h5>
-                          <p class="card-text">Uno, le jeu de cartes classique, est un divertissement familial dynamique et plein de rebondissements. Avec ses couleurs vives et ses règles simples, Uno est le jeu parfait pour les soirées en famille, les fêtes entre amis et les moments de détente.</p>
-                          <p class="card-text"><a href="#" class="text-muted btn">Last updated 3 mins ago</a></p>
+                          <p class="card-text">Uno, le jeu de cartes classique, 
+                            est un divertissement familial dynamique et plein de rebondissements. 
+                            Avec ses couleurs vives et ses règles simples, Uno est le jeu parfait pour les soirées en famille, 
+                            les fêtes entre amis et les moments de détente.</p>
+                            <a href="assets/img/UNOregle.pdf" class="btn btn-order rounded-0 merriweather">Règles du Uno</a>
+
+
+                         
                         </div>
                       </div>
                     </div>
