@@ -78,7 +78,8 @@
 
   
  
-  while ($row = $ps->fetch()) {     
+  while ($row = $ps->fetch()) {    
+     
       echo '<tr>';
       echo '<td>' . $row['id'] . '</td>';
       echo '<td>' . $row['NOMJ'] . '</td>';
