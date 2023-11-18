@@ -91,7 +91,7 @@ if (!empty($_GET['id'])) {
             
             <div class ="row">
                
-                    <form  method="POST" action="tt_jeux.php">
+                    <form  method="POST" action="tt_jeux.php" enctype="multipart/form-data">
                         
                         
                         <div class="container">
