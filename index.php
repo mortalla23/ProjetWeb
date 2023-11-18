@@ -61,7 +61,7 @@
                 <div class="card mb-3" border-0 rounded-0">
                     <div class="row g-0">
                       <div class="col-md-6">
-                        <img src="assets/img/monopoly.png"  class="img-fluid " alt="...">
+                        <img src="assets/img/monopoly.png" >
                       </div>
                       <div class="col-md-6">
                         <div class="card-body">
@@ -97,7 +97,8 @@
 
                           <p> Jeu composé d'un plateau de 64 cases et de 32 pièces (16 pour chacun des deux joueurs).
                               Le jeu consiste à mettre l'autre joueur échec et mat, 
-                              c'est-à-dire que son roi est en prise et qu'il n'y a aucun coup possible pour l'en sortir.</p>
+                              c'est-à-dire que son roi est en prise et qu'il n'y a aucun coup possible pour l'en sortir.
+                            Il permet de passer du bon temps.</p>
 
                           </div>
                             </div>
@@ -105,14 +106,14 @@
                         </div>
                       </div>
                       <div class="col-md-6">
-                        <img src="assets/img/dame.png"  class="img-fluid " alt="...">
+                        <img src="assets/img/dame.png"   >
                       </div>
                     </div>
                   </div>
                   <div class="card mb-3" border-0 rounded-0">
                     <div class="row g-0">
                       <div class="col-md-6">
-                        <img src="assets/img/Carte.png"  class="img-fluid " alt="...">
+                        <img src="assets/img/Carte.png"    >
                       </div>
                       <div class="col-md-6">
                         <div class="card-body">
