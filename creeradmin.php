@@ -100,17 +100,15 @@
             </div>
             <div class="col-6">
                 <ul class="nav text-center">
+                    
                     <li class="nav-item">
-                        <a href="#" class="nav-link text-white">FAQ</a>
+                        <a href="presen.php" class="nav-link text-white">About</a>
                     </li>
                     <li class="nav-item">
-                        <a href="#" class="nav-link text-white">About</a>
+                        <a href="inscrip.php" class="nav-link text-white">Jeux</a>
                     </li>
                     <li class="nav-item">
-                        <a href="#" class="nav-link text-white">Jeux</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="#" class="nav-link text-white">Contact</a>
+                        <a href="presen.php" class="nav-link text-white">Contact</a>
                     </li>
                 </ul>
             </div>

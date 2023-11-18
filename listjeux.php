@@ -55,7 +55,7 @@
                 <div class="card mb-3" border-0 rounded-0">
                     <div class="row g-0">
                       <div class="col-md-6">
-                        <img src="assets/img/monopoly.png">
+                        <img src="assets/img/monopoly.png"  class="img-fluid " >
                       </div>
                       <div class="col-md-6">
                         <div class="card-body">
@@ -89,7 +89,7 @@
                         </div>
                       </div>
                       <div class="col-md-6">
-                        <img src="assets/img/dame.png">
+                        <img src="assets/img/dame.png"  class="img-fluid " alt="...">
                       </div>
                     </div>
                   </div>
@@ -97,7 +97,7 @@
                   <div class="card mb-3" border-0 rounded-0">
                     <div class="row g-0">
                       <div class="col-md-6">
-                        <img src="assets/img/Carte.png" >
+                        <img src="assets/img/Carte.png"  class="img-fluid " alt="...">
                       </div>
                       <div class="col-md-6">
                         <div class="card-body">
@@ -126,7 +126,7 @@
                         </div>
                       </div>
                       <div class="col-md-6">
-                        <img src="assets/img/scrable.png">
+                        <img src="assets/img/scrable.png"  class="img-fluid " alt="...">
                       </div>
                     </div>
                   </div>
@@ -134,7 +134,7 @@
                   <div class="card mb-3" border-0 rounded-0">
                     <div class="row g-0">
                       <div class="col-md-6">
-                        <img src="assets/img/uno.png" >
+                        <img src="assets/img/uno.png"  class="img-fluid " alt="...">
                       </div>
                       <div class="col-md-6">
                         <div class="card-body">
@@ -169,7 +169,7 @@
                         <a href="presen.php" class="nav-link text-white">About</a>
                     </li>
                     <li class="nav-item">
-                        <a href="index.php" class="nav-link text-white">Jeux</a>
+                        <a href="inscrip.php" class="nav-link text-white">Jeux</a>
                     </li>
                     <li class="nav-item">
                         <a href="presen.php" class="nav-link text-white">Contact</a>

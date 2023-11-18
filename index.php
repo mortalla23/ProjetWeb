@@ -61,7 +61,7 @@
                 <div class="card mb-3" border-0 rounded-0">
                     <div class="row g-0">
                       <div class="col-md-6">
-                        <img src="assets/img/monopoly.png" >
+                        <img src="assets/img/monopoly.png"  class="img-fluid " alt="...">
                       </div>
                       <div class="col-md-6">
                         <div class="card-body">
@@ -97,8 +97,7 @@
 
                           <p> Jeu composé d'un plateau de 64 cases et de 32 pièces (16 pour chacun des deux joueurs).
                               Le jeu consiste à mettre l'autre joueur échec et mat, 
-                              c'est-à-dire que son roi est en prise et qu'il n'y a aucun coup possible pour l'en sortir.
-                            Il permet de passer du bon temps.</p>
+                              c'est-à-dire que son roi est en prise et qu'il n'y a aucun coup possible pour l'en sortir.</p>
 
                           </div>
                             </div>
@@ -106,14 +105,14 @@
                         </div>
                       </div>
                       <div class="col-md-6">
-                        <img src="assets/img/dame.png"   >
+                        <img src="assets/img/dame.png"  class="img-fluid " alt="...">
                       </div>
                     </div>
                   </div>
                   <div class="card mb-3" border-0 rounded-0">
                     <div class="row g-0">
                       <div class="col-md-6">
-                        <img src="assets/img/Carte.png"    >
+                        <img src="assets/img/Carte.png"  class="img-fluid " alt="...">
                       </div>
                       <div class="col-md-6">
                         <div class="card-body">
@@ -123,7 +122,7 @@
                             <button class="titre">DESCRITION</button>
                             <div class="dropdown-child">
                          
-                            <p>Les jeux de cartes offrent une grande flexibilité et diversité,
+                          <p>Les jeux de cartes offrent une grande flexibilité et diversité,
                              ce qui les rend accessibles à un large public. 
                              Ils encouragent également le développement de compétences mentales 
                              telles que la concentration, la mémoire, la planification stratégique et la prise de décision rapide.</p>
@@ -144,13 +143,11 @@
       <section class="cc-carousel merriweather bg-dark text-light text-center py-5">
         <div class="container">
             <div class="row">
-                <h1 class="text-uppercase text-center "> Les jeux de Scrable </h1>
+                <h1 class="text-uppercase text-center ">GameSphère</h1>
                     <div class="col pb-4">
-                            Le Scrabble, jeu de société emblématique,
-                             est une aventure intellectuelle où les mots sont vos meilleures armes. 
-                             Plongez dans ce jeu passionnant où la créativité et la stratégie se rencontrent. 
-                             Le Scrabble vous met au défi de créer des mots ingénieux et de placer vos lettres judicieusement sur le plateau
-                             pour marquer des points et battre vos adversaires.
+                             Les jeux que notre site présente ne vous plongerons que  dans vos plus beaux 
+                             des souvenirs d'enfances mais aussi vous permettront de vous évader.Nous vous invitons à vous 
+                             inscrire ou vous connecter pour profiter de ce moment avec vous même.
                     </div>
             </div>
             <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
@@ -191,7 +188,7 @@
                         <a href="presen.php" class="nav-link text-white">About</a>
                     </li>
                     <li class="nav-item">
-                        <a href="index.php" class="nav-link text-white">Jeux</a>
+                        <a href="inscrip.php" class="nav-link text-white">Jeux</a>
                     </li>
                     <li class="nav-item">
                         <a href="presen.php" class="nav-link text-white">Contact</a>
