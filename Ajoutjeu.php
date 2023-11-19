@@ -1,34 +1,38 @@
 <?php
-if(!empty($_GET['id'])){
-
-    $host     = 'localhost';
+if (!empty($_GET['id'])) {
+    $host = 'localhost';
     $login = 'root';
-    $passwd = ' ';
-    $dbname    = 'espacemembres';
-    
-    //Créer une connexion et sélectionner la base de données
+    $passwd = '';  // Assurez-vous de remplacer cela par votre mot de passe réel
+    $dbname = 'espacemembres';
+
+    // Créer une connexion et sélectionner la base de données
     $db = new mysqli($host, $login, $passwd, $dbname);
-    
+
     // Vérifier la connexion
-    if($db->connect_error){
+    if ($db->connect_error) {
         die("Erreur de connexion: " . $db->connect_error);
     }
-    
-    //Récupérer l'image à partir du base de données
-    $res = $db->query("SELECT FILE FROM jeux WHERE id = {$_GET['id']}");
-    
-    if($res->num_rows > 0){
+
+    // Utilisation d'une déclaration préparée pour éviter les injections SQL
+    $stmt = $db->prepare("SELECT FILE FROM jeux WHERE id = ?");
+    $stmt->bind_param("i", $_GET['id']);
+    $stmt->execute();
+    $res = $stmt->get_result();
+
+    if ($res->num_rows > 0) {
         $image = $res->fetch_assoc();
-        
-        //Rendre l'image
-        echo '<img src="data:image/jpeg;base64,' . $image . '" alt="Image">';
-        header("Content-type: image/jpg"); 
-        echo $image['FILE']; 
-    }else{
+
+        // Définir le type de contenu en fonction du format de l'image (par exemple, PNG ici)
+        header("Content-type: image/png");
+
+        // Afficher l'image
+        echo $image['FILE'];
+    } else {
         echo 'Image non trouvée...';
     }
 }
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
