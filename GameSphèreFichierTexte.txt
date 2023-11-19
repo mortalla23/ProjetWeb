@@ -1,0 +1,18 @@
+ GameSphère
+
+					Table users			
+
+Id	nom		prenom		email		password	role
+
+9	talla		mor		mor@gmail.com	mor		utilisateur
+10	degla		loic		loic@gmail.com	loic		membre
+20	amar		amar		ama@gmail.com	amar		membre
+
+
+					Table jeux
+
+Id		NomJ			FILE
+20		Monopoly		monopoly.png	
+21		uno			uno.png	
+22		Scrable			scrable.png
+23		Carte			Carte.png
