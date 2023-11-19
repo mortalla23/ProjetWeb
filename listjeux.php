@@ -169,7 +169,7 @@
                         <a href="presen.php" class="nav-link text-white">About</a>
                     </li>
                     <li class="nav-item">
-                        <a href="inscrip.php" class="nav-link text-white">Jeux</a>
+                        <a href="listjeux.php" class="nav-link text-white">Jeux</a>
                     </li>
                     <li class="nav-item">
                         <a href="presen.php" class="nav-link text-white">Contact</a>
