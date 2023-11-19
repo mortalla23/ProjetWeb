@@ -31,7 +31,9 @@
               <li class="nav-item pe-2">
                 <a class="nav-link" href ="souhaitjeu.php">Choisir un jeu à jouer</a>
               </li>
-              
+              <li class="nav-item pe-2">
+                <a class="nav-link active" aria-current="page" href="index.php">Deconnexion</a>
+              </li>
             </ul>
           </div>
         </div>
