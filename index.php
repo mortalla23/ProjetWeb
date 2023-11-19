@@ -49,7 +49,7 @@
                              Entrez dans l'Univers des jeux de plateaux
                         </h1>    
                         <p>
-                            <button class="btn btn-order rounded-0 merriweather" href="conne.php" >Connectez-vous pour voir tous nos jeux </button>
+                            <a class="btn btn-order rounded-0 merriweather" href="conne.php" >Connectez-vous pour voir tous nos jeux </a>
                            
                         </p>
                     </div>
@@ -91,9 +91,22 @@
                       
                       <div class="col-md-6">
                         <div class="card-body">
-                          <h5 class="card-title">Jeu de Société</h5>
-                          <p class="card-text">Les jeux de société sont un excellent moyen de passer du temps de qualité en famille ou entre amis, encourageant la communication, la collaboration et la compétition amicale. Ils peuvent être appréciés par les personnes de tous âges et offrent une opportunité de créer des souvenirs tout en développant des compétences telles que la pensée critique, la résolution de problèmes et la planification stratégique.</p>
-                          
+                          <h5 class="card-title">Jeu d'échecs</h5>
+
+                          <div class="dropdown">
+                            <button class="titre">DESCRITION</button>
+                            <div class="dropdown-child">
+                              
+                          <p>Le jeu d’échecs est un des jeux les plus populaires au monde. 
+                            Les jeux de société sont un excellent moyen de passer du temps de
+                             qualité en famille ou entre amis, encourageant la communication,la 
+                             compétition amicale. Ils peuvent être appréciés par les personnes de tous âges et offrent
+                              une opportunité de créer des souvenirs tout en développant des compétences telles que la 
+                              pensée critique, la résolution de problèmes et la planification stratégique.</p>
+
+                            </div>
+                          </div>
+
                         </div>
                       </div>
                       <div class="col-md-6">
@@ -109,7 +122,19 @@
                       <div class="col-md-6">
                         <div class="card-body">
                           <h5 class="card-title">Jeu de Carte</h5>
-                          <p class="card-text">Les jeux de cartes offrent une grande flexibilité et diversité, ce qui les rend accessibles à un large public. Ils encouragent également le développement de compétences mentales telles que la concentration, la mémoire, la planification stratégique et la prise de décision rapide.</p>
+                          
+                          <div class="dropdown">
+                            <button class="titre">DESCRITION</button>
+                            <div class="dropdown-child">
+                           
+
+                          <p class="card-text">
+                            Les jeux de cartes offrent une grande flexibilité et diversité, ce qui les rend accessibles à un large public.
+                             Ils encouragent également le développement de compétences mentales telles que la concentration, 
+                             la mémoire, la planification stratégique et la prise de décision rapide.</p>
+
+                             </div>
+                          </div>  
                          
                         </div>
                       </div>
@@ -124,9 +149,13 @@
       <section class="cc-carousel merriweather bg-dark text-light text-center py-5">
         <div class="container">
             <div class="row">
-                <h1 class="text-uppercase text-center "> Les jeux de plateau </h1>
+                <h1 class="text-uppercase text-center ">GameSphère</h1>
+
                     <div class="col pb-4">
-                        Les thèmes des jeux de plateau peuvent varier considérablement, allant des jeux basés sur la stratégie militaire aux jeux de construction de civilisations, en passant par les jeux de mystère et d'intrigue. Ces jeux offrent non seulement un divertissement, mais aussi des opportunités d'apprentissage, de développement de compétences sociales et de renforcement des liens familiaux ou amicaux.
+                              Les jeux offrent non seulement un divertissement,
+                          mais aussi des opportunités d'apprentissage, de développement de compétences sociales et de renforcement
+                           des liens familiaux ou amicaux.Notre plateforme s'emploie à vous faire vous évader vers vos plus anciens
+                           souvenirs d'enfance.Inscrivez vous ou connectez vous pour prendre du plaisir et surout  amusez vous.
                     </div>
             </div>
             <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">

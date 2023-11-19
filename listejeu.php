@@ -16,7 +16,7 @@
 <body>
     <nav class="cc-navbar navbar navbar-expand-lg position-fixed navbar-dark w-100">
         <div class="container">
-          <a class="navbar-brand test-uppercase fw-bolder mx-4 py-3" href="#">GameSphère</a>
+          <a class="navbar-brand test-uppercase fw-bolder mx-4 py-3" href="presen.php">GameSphère</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -26,7 +26,7 @@
                 <a class="nav-link active" aria-current="page" href="jeux.php">Jeux</a>
               </li>
               <li class="nav-item pe-2">
-                <a class="nav-link active" aria-current="page" href="listejeu.php">Liste des jeux à jour </a>
+                <a class="nav-link active" aria-current="page" href="listejeu.php">Liste des jeux à jouer </a>
               </li>
               <li class="nav-item pe-2">
                 <a class="nav-link" href ="souhaitjeu.php">Choisir un jeu à jouer</a>
@@ -45,11 +45,11 @@
             <div class ="row">
                 
                 <div class="col-md-6">
-                    <p class="text-capitalize py-3 redressed banner-desc"> Bienvenue membre! </p>
+                    <p class="text-capitalize py-3 redressed banner-desc"> Bienvenue à toi membre! </p>
                 </div>
                 <div class="col-md-6">
                     <h1 class="text-capitalize py-3 redressed banner-desc">
-                         La liste des jeux à jour </br>sur GameSphère
+                         La liste des jeux à jouer </br>sur GameSphère
                     </h1>    
                    
                 </div>
