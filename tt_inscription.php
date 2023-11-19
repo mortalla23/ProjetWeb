@@ -33,7 +33,7 @@ $stmt->execute([$email]);
 if ($stmt->rowCount() > 0) {
     // L'utilisateur existe déjà, gestion de l'erreur ou autre action.
     $_SESSION['message'] = "Cet utilisateur existe déjà.";
-    header('Location: page_dinscription.php'); // Rediriger vers la page d'inscription avec un message d'erreur
+    header('Location: inscrip.php'); // Rediriger vers la page d'inscription avec un message d'erreur
     exit(); // Arrêter l'exécution du script après la redirection
 }
 
