@@ -1,8 +1,13 @@
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="...">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="..." crossorigin="anonymous"></script>
+
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
     
     <link href="assets/css/bootstrap.min.css" rel="stylesheet"/>
@@ -23,8 +28,14 @@
               </li>
               
               <li class="nav-item pe-2">
-                <a class="nav-link" href ="AMSjeu.php">Ajout-Sup-Mod Jeu</a>
+                <a class="nav-link" href ="Ajoutjeu.php">Ajout Jeu</a>
               </li>
+              
+              <li class="nav-item pe-2">
+                <a class="nav-link" href ="suppjeu.php">Supprimer Jeu</a>
+              </li>
+              
+              
               
             </ul>
             <ul class="navbar-nav mb-lg-0">
@@ -49,7 +60,7 @@
             
             <div class ="row">
                
-                    <form  method="POST" action="tt_inscription.php">
+                    <form  method="POST" action="tt_admin.php">
                         
                         
                         <div class="container">
@@ -59,10 +70,15 @@
                                 <label for="nom" class="form-label ">Nom</label>
                                 <input type="text" class="form-control " id="nom" name="nom" placeholder="Votre nom..." required>
                             </div>
+                            
                             <div class="col-md-10">
-                                <label for="prenom" class="form-label ">Prénom</label>
-                                <input type="text" class="form-control " id="prenom" name="prenom" placeholder="Votre prénom..." required>
+                                <label for="nom" class="form-label ">Prenom</label>
+                                <input type="text" class="form-control " id="prenom" name="prenom" placeholder="Votre prenom..." required>
                             </div>
+                            <div class="col-md-9">
+                                    <label for="email" class="form-label ">Email</label>
+                                    <input type="email" class="form-control " id="email" name="email" placeholder="Votre email..." required>
+                                </div>
                         </div>
                         <div class="row">
                             
@@ -100,15 +116,17 @@
             </div>
             <div class="col-6">
                 <ul class="nav text-center">
-                    
                     <li class="nav-item">
-                        <a href="presen.php" class="nav-link text-white">About</a>
+                        <a href="#" class="nav-link text-white">FAQ</a>
                     </li>
                     <li class="nav-item">
-                        <a href="inscrip.php" class="nav-link text-white">Jeux</a>
+                        <a href="#" class="nav-link text-white">About</a>
                     </li>
                     <li class="nav-item">
-                        <a href="presen.php" class="nav-link text-white">Contact</a>
+                        <a href="#" class="nav-link text-white">Jeux</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link text-white">Contact</a>
                     </li>
                 </ul>
             </div>

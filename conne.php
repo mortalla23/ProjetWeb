@@ -4,6 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="...">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="..." crossorigin="anonymous"></script>
+
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
     
     <link href="assets/css/bootstrap.min.css" rel="stylesheet"/>
@@ -11,6 +14,8 @@
     <title>Connexion </title>
 </head>
 <body>
+
+
     
     <nav class="cc-navbar navbar navbar-expand-lg position-fixed navbar-dark w-100">
         <div class="container">
@@ -53,7 +58,7 @@
                 
                 <div class ="row">
                    
-                        <form  method="POST" action="tt_inscription.php">
+                        <form  method="POST" action="tt_connexion.php">
                             
                             
                             
